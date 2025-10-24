@@ -1,6 +1,6 @@
 {
-  "artifact": "bcartifacts/sandbox/22.0.54157.55210/us/closest",
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v8.0/.Modules/settings.schema.json",
+  "artifact": "bcartifacts/sandbox/22.0.54157.55210/us/closest",
   "country": "us",
   "appFolders": [],
   "testFolders": [],
